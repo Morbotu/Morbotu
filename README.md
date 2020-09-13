@@ -19,4 +19,6 @@ I'm 16 years old and in high school. I've programming as hobby.
 -   Visual Studio Code [<img width="16px" alt="Visual Studio Code" src="https://code.visualstudio.com/favicon.ico" />](https://code.visualstudio.com/)
 -   Git [<img width="16px" alt="Git" src="https://git-scm.com/favicon.ico" />](https://git-scm.com/)
 -   Nodejs [<img width="16px" alt="Nodejs" src="https://nodejs.org/static/images/favicons/favicon.ico" />](https://nodejs.org/)
--   HTML5 [<img width="16px" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" />](https://www.w3schools.com/html/)
+-   HTML5 [<img width="16px" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" />](https://en.wikipedia.org/wiki/HTML5)
+-   CSS [<img width="16px" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/240px-CSS3_logo_and_wordmark.svg.png" />](https://en.wikipedia.org/wiki/CSS)
+-   Angularjs [<img width="16px" alt="Angularjs" src="https://angularjs.org/favicon.ico" />](https://angularjs.org/)
