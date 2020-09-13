@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there, I'm Rombout - aka Morbotu 👋
 
-<!--
-**Morbotu/Morbotu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 16 years old and in high school. I've programming as hobby.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools/languages I use.
+
+-   Termux [<img width="16px" alt="Termux" src="https://termux.com/favicon.ico" />](https://termux.com/)
+-   Python [<img width="16px" alt="Python" src=https://www.python.org/favicon.ico />](https://www.python.org/)
+-   GitHub [<img width="16px" alt="GitHub" src="https://github.com/favicon.ico" />](https://github.com/)
+-   Javascript [<img width="16px" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
+-   Visual Studio Code [<img width="16px" alt="Visual Studio Code" src="https://code.visualstudio.com/favicon.ico" />](https://code.visualstudio.com/)
+-   Git [<img width="16px" alt="Git" src="https://git-scm.com/favicon.ico" />](https://git-scm.com/)
+-   Nodejs [<img width="16px" alt="Nodejs" src="https://nodejs.org/static/images/favicons/favicon.ico" />](https://nodejs.org/)
