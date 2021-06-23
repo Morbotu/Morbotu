@@ -1,4 +1,4 @@
-### Hey there, I'm Rombout - aka Morbotu 👋
+### Hey there, I'm Rombout - aka Morbotu :wave:
 
 I'm 16 years old and in high school. I've programming as hobby.
 
@@ -6,7 +6,7 @@ I'm 16 years old and in high school. I've programming as hobby.
 
 #### Current status
 
--   📚 I'm currently trying to learn a bit of computer security with ctf, try hack me, etc.
+-   :helicopter: I'm am currently working on a project for school. I'm trying to make a autonomous drone.
 
 ---
 
