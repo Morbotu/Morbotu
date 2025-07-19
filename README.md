@@ -1,25 +1,17 @@
 ### Hey there, I'm Rombout - aka Morbotu :wave:
 
-I'm 16 years old and in high school. I've programming as hobby.
+- I am a student at Delft University of Technology (TU-Delft) <a href="https://www.tudelft.nl/" style="margin-left: 3px"><img alt="TU-logo" width="20px" src="https://play-lh.googleusercontent.com/yX41-RuS7PzflIRHHRmDq81gnDDYzpxayorLySJaao_QvOcqjgBuuHU3N-AZKToMCw2l" style="border-radius: 6px; transform: translateY(5px);" /></a>
 
----
+- Currently I'm in the IT commission of student rowing association Laga to work on the website <a href="https://laga.nl/"><img alt="laga-logo" width="20px" src="https://laga.nl/img/main/favicon.ico" style="transform: translateY(5px);" /></a>
 
-#### Current status
+- I'm also currently learning Nix <a href="https://nixos.org/" style="margin-left: 3px"><img alt="TU-logo" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nix_Snowflake_Logo.svg/753px-Nix_Snowflake_Logo.svg.png?20231229105643" style="transform: translateY(4px);" /></a>
 
--   :helicopter: I'm am currently working on a project for school. I'm trying to make a autonomous drone.
+### Skills
 
----
+- Python to create scripts or physics simulation <a href="https://www.python.org/" style="margin-left: 3px"><img alt="TU-logo" width="20px" src="https://www.python.org/favicon.ico" style="transform: translateY(5px);" /></a>
 
-#### Tools/languages I use
+- p5.js for animation of physics simulation ([collection](https://editor.p5js.org/Rombout124/collections/vLYvZaqcV)) <a href="https://p5js.org/" style="margin-left: 3px"><img alt="TU-logo" width="20px" src="https://p5js.org/favicon.ico" style="transform: translateY(5px);" /></a>
 
--   Termux [<img width="16px" alt="Termux" src="https://termux.com/favicon.ico" />](https://termux.com/)
--   Python [<img width="16px" alt="Python" src=https://www.python.org/favicon.ico />](https://www.python.org/)
--   GitHub [<img width="16px" alt="GitHub" src="https://github.com/favicon.ico" />](https://github.com/)
--   Javascript [<img width="16px" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
--   Visual Studio Code [<img width="16px" alt="Visual Studio Code" src="https://code.visualstudio.com/favicon.ico" />](https://code.visualstudio.com/)
--   Git [<img width="16px" alt="Git" src="https://git-scm.com/favicon.ico" />](https://git-scm.com/)
--   Nodejs [<img width="16px" alt="Nodejs" src="https://nodejs.org/static/images/favicons/favicon.ico" />](https://nodejs.org/)
--   HTML5 [<img width="16px" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" />](https://en.wikipedia.org/wiki/HTML5)
--   CSS [<img width="16px" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/240px-CSS3_logo_and_wordmark.svg.png" />](https://en.wikipedia.org/wiki/CSS)
--   Angularjs [<img width="16px" alt="Angularjs" src="https://angularjs.org/favicon.ico" />](https://angularjs.org/)
--   npm [<img width="16px" alt="npm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/440px-Npm-logo.svg.png" />](https://www.npmjs.com/)
+- Proficient in javascript for api's and websites front and backend <a href="https://www.javascript.com/" style="margin-left: 3px"><img alt="TU-logo" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="transform: translateY(5px);" /></a>
+
+- Basic understanding of building websites (HTML, php, laravel, react, vite, typescript, javascript, tailwindcss, inertiajs, node, composer, docker)
