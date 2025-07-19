@@ -1,6 +1,6 @@
 ### Hey there, I'm Rombout - aka Morbotu :wave:
 
-- I am a student at Delft University of Technology (TU-Delft) <a href="https://www.tudelft.nl/" style="margin-left: 3px"><img alt="TU-logo" width="20px" src="https://play-lh.googleusercontent.com/yX41-RuS7PzflIRHHRmDq81gnDDYzpxayorLySJaao_QvOcqjgBuuHU3N-AZKToMCw2l" style="border-radius: 6px; transform: translateY(5px);" /></a>
+- I am a bachelor student Applied Physics at Delft University of Technology (TU-Delft) <a href="https://www.tudelft.nl/" style="margin-left: 3px"><img alt="TU-logo" width="20px" src="https://play-lh.googleusercontent.com/yX41-RuS7PzflIRHHRmDq81gnDDYzpxayorLySJaao_QvOcqjgBuuHU3N-AZKToMCw2l" style="border-radius: 6px; transform: translateY(5px);" /></a>
 
 - Currently I'm in the IT commission of student rowing association Laga to work on the website <a href="https://laga.nl/"><img alt="laga-logo" width="20px" src="https://laga.nl/img/main/favicon.ico" style="transform: translateY(5px);" /></a>
 
